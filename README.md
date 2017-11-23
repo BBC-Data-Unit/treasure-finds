@@ -9,6 +9,8 @@ In addition to the data analysis, BBC News asked Ian Richardson, the treasure re
 ## Get the data
 
 * DCMS: Treasure and portable antiquities statistics - [Statistical Release for Reported Treasure Finds (2015 and 2016)](https://www.gov.uk/government/statistics/statistical-release-for-reported-treasure-finds-2015-and-2016)
+* [XLS file of those statistics](https://github.com/BBC-Data-Unit/treasure-finds/blob/master/Statistical_Release_for_Reported_Treasure_Finds__2015_and_2016_final.xlsx)
+* CSV: [Cleaned dataset of treasure finds by county](https://github.com/BBC-Data-Unit/treasure-finds/blob/master/treasurecases2012_16.csv)
 
 ## Visualisation
 
